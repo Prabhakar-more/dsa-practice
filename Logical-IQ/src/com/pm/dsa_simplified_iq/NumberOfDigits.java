@@ -20,9 +20,10 @@ public class NumberOfDigits {
 			count++;
 			
 		}
-		
+		sc.close();
 		System.out.println("Number Of Digits in a Number is : "+count);
 
 	}
+	
 
 }
